@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nakamotolabs.timecontrol",
+      "sha256_cert_fingerprints": [
+        "7B:42:53:87:FB:86:57:D4:2C:1D:70:29:0D:6D:CB:71:4E:48:15:0F:71:69:D4:4E:D1:6B:E6:71:A6:F1:37:27"
+      ]
+    }
+  }
+]
